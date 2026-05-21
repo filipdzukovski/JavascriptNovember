@@ -1,0 +1,9 @@
+Domashna1:
+- Da se prikaze vo dopolnitelen fajl lista od filmovi (minimum 5 po vash izbor)
+izdefinirana vo app so atributi {name,date,genre plot,imdbLink,imgUrl}
+listata na atributi prikaz i slika za filmot (slikata ne mora da bide od imdb),
+dopolnitelno da se koristi proptypes za definiranje na prenesenite properties.
+imdb.com e stranata za filmovite
+Domashna2:
+- Da se kreira sign up forma (so min 5 polinja) i button koj na klik ke gi prikaze vnesenite
+vrednosti vo edna tabela, a na povtoren klik ke ja trgne (skrie) tabelata.
