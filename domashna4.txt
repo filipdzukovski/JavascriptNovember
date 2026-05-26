@@ -1,0 +1,4 @@
+1)Ke se dodade pole za komentari i button koe na klik na button-ot (mozete da gi koristite od font awesome ikonkite
+za buttonot kako sto pravevme za password) ke stane pogolem field za multiline comment (da ne se izgubi vrednosta
+vnesena vo input fieldot za single line comment pri promena).
+2) to rework password eye hide/show using mouse up/down
