@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "filip",
+      "password": "qwerty"
+    },
+    {
+      "username": "test",
+      "password": "test"
+    },
+    {
+      "username": "anna",
+      "password": "anna123"
+    },
+    {
+      "username": "mark",
+      "password": "mark123"
+    },
+    {
+      "username": "sarah",
+      "password": "sarah123"
+    },
+    {
+      "username": "david",
+      "password": "david123"
+    },
+    {
+      "username": "emily",
+      "password": "emily123"
+    },
+    {
+      "username": "chris",
+      "password": "chris123"
+    },
+    {
+      "username": "sophia",
+      "password": "sophia123"
+    },
+    {
+      "username": "daniel",
+      "password": "daniel123"
+    },
+    {
+      "username": "olivia",
+      "password": "olivia123"
+    },
+    {
+      "username": "michael",
+      "password": "michael123"
+    }
+  ]
+}

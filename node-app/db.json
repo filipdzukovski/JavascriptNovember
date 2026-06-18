@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Filip",
+      "post": "Hello, this is a sample post."
+    },
+    {
+      "id": 2,
+      "author": "Test",
+      "post": "This is another post."
+    },
+    {
+      "id": 3,
+      "author": "Anna",
+      "post": "Learning Redux is fun and useful."
+    },
+    {
+      "id": 4,
+      "author": "Mark",
+      "post": "Express.js makes backend development simple."
+    },
+    {
+      "id": 5,
+      "author": "Sarah",
+      "post": "React hooks are very powerful."
+    },
+    {
+      "id": 6,
+      "author": "David",
+      "post": "Today I worked on my portfolio project."
+    },
+    {
+      "id": 7,
+      "author": "Emily",
+      "post": "JavaScript async functions are easy to use."
+    },
+    {
+      "id": 8,
+      "author": "Chris",
+      "post": "Node.js is great for REST APIs."
+    },
+    {
+      "id": 9,
+      "author": "Sophia",
+      "post": "Frontend and backend together create fullstack apps."
+    },
+    {
+      "id": 10,
+      "author": "Daniel",
+      "post": "CSS animations can improve user experience."
+    },
+    {
+      "id": 11,
+      "author": "Olivia",
+      "post": "Testing applications helps prevent bugs."
+    },
+    {
+      "id": 12,
+      "author": "Michael",
+      "post": "JWT authentication keeps routes protected."
+    },
+    {
+      "id": 13,
+      "author": "Filip",
+      "post": "Working with React and Redux today."
+    },
+    {
+      "id": 14,
+      "author": "Filip",
+      "post": "Finished building my authentication system."
+    },
+    {
+      "id": 15,
+      "author": "Filip",
+      "post": "Trying out Express middleware for APIs."
+    },
+    {
+      "id": 16,
+      "author": "Test",
+      "post": "This backend server is running smoothly."
+    },
+    {
+      "id": 17,
+      "author": "Test",
+      "post": "Practicing CRUD operations with Node.js."
+    },
+    {
+      "id": 18,
+      "author": "Anna",
+      "post": "State management becomes easier with Redux Toolkit."
+    },
+    {
+      "id": 19,
+      "author": "Mark",
+      "post": "Debugging APIs takes patience and practice."
+    },
+    {
+      "id": 20,
+      "author": "Filip",
+      "post": "Adding loaders improves user experience a lot."
+    }
+  ]
+}
