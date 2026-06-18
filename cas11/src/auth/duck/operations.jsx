@@ -1,5 +1,5 @@
-import { logInSuccess, logInFailed, logOutUser } from './actions';
-import { LogInUser } from './../../../api/authApi';
+import { logInSuccess, logInFailed, logOutUser } from "./actions";
+import { LogInUser } from "../../api/authApi";
 
 export const logIntoApp = (requestParams) => {
     return dispatch => {
@@ -9,14 +9,8 @@ export const logIntoApp = (requestParams) => {
                 return res.data;
             })
             .catch(err => {
-                dispatch(logInFailed('Invalid Credentials'));
+                dispatch(logInFailed(err))
                 return err;
             })
-    }
-}
-
-export const logOut = () => {
-    return dispatch =>{
-        dispatch(logOutUser())
     }
 }

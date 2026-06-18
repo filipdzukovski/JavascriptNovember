@@ -1,10 +1,10 @@
 export const getToken = () => {
-    return localStorage.getItem('token') //proverka dali imame token
+    return localStorage.getItem("token"); //proverka za token
 }
 
 export const setUserStorage = (token, user) => {
     localStorage.setItem('token', token);
-    localStorage.setItem('user', user);
+    localStorage.setItem('user', user)
 }
 
 export const removeUserStorage = () => {

@@ -1,9 +1,8 @@
 import React from 'react';
-import { Outlet } from 'react-router-dom';
 import { Nav } from './Nav';
+import { Outlet } from 'react-router-dom';
 
 export function App() {
-
   return (
     <div id='app'>
       <nav>

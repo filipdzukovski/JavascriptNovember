@@ -12,10 +12,10 @@ export const Login = () => {
     async function logIn() {
         try {
             await dispatch(logIntoApp(loginData));
-            navigate('/users');
+            navigate('/users')
         }
         catch (err) {
-            alert(err);
+            alert(err)
         }
     }
 
